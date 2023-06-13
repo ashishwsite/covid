@@ -1,0 +1,38 @@
+body{
+    
+        background-image: url("/bg2.jpg");
+        opacity: 5;
+      
+      
+}
+nva{
+    background-color: blue;
+}
+.navbar-nav{
+    font-size: 20px;
+    color: blue;
+   
+
+}
+.navbar-nav a{
+    padding: 1cm;
+   font-size: larger;
+   color:black;
+   
+}
+img{
+    height: 10cm;
+    width: 33cm;
+    margin-left: 3cm;
+}
+.overview h1{
+    text-align: center;
+}
+li{
+    padding-left: 2cm;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.footer{
+    background-color: rgb(118, 101, 101);
+    height: 3cm;
+}
