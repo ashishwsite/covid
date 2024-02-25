@@ -32,7 +32,8 @@ li{
     padding-left: 2cm;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
-.footer{
-    background-color: rgb(118, 101, 101);
-    height: 3cm;
+@media (width<420px) {
+    .foot{
+        flex-direction: column;
+    }
 }
