@@ -1,8 +1,4 @@
-body{
-    
-        background-image: url("/bg2.jpg");
-        opacity: 1;
-}
+
 nva{
     background-color: blue;
 }
@@ -21,7 +17,6 @@ nva{
 img{
     height: 10cm;
     width: 33cm;
-    margin-left: 3cm;
 }
 .overview h1{
     text-align: center;
